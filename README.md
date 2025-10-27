@@ -9,7 +9,7 @@ It was designed and developed by **John David (CloudTech Analytics)** to help Sa
 
 This dashboard was built using **Power BI**, leveraging **interactive visuals, dynamic measures (CYMTD, PYMTD)**, and **data-driven insights** to support strategic decision-making.
 
-[Click to interact with the dashboard]([https://www.linkedin.com/in](https://www.linkedin.com/in/john-david-b7b5781b3/](https://app.powerbi.com/reportEmbed?reportId=7cee769e-afa7-48a0-9b15-4907be8e7cb9&autoAuth=true&ctid=8d843700-4eee-44f8-ac3e-469ca90fd5df)
+[Click to interact with the dashboard](https://app.powerbi.com/reportEmbed?reportId=7cee769e-afa7-48a0-9b15-4907be8e7cb9&autoAuth=true&ctid=8d843700-4eee-44f8-ac3e-469ca90fd5df)
 ---
 
 ## 🧭 Business Objective
