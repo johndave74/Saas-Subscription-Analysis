@@ -139,7 +139,7 @@ John helps organizations leverage data to make informed decisions through analyt
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in](https://www.linkedin.com/in/john-david-b7b5781b3/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/john-david-b7b5781b3/)
 - 🧠 [GitHub Projects](https://github.com/johndave74/)
 - 🌎 CloudTech Analytics | Data Intelligence for the Future
 
